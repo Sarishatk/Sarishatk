@@ -5,8 +5,7 @@ I'm an aspiring full-stack developer from Kerala, India, passionate about buildi
 ---
 
 ## 🚀 About Me
-
-🎓 BCA Student at College of Applied Science, Chelakkara  
+  
 🛠️ I enjoy building things with React, NestJS, and MongoDB  
 🧠 Currently learning more about AI-powered apps and real-time systems  
 🌱 I believe in continuous learning and clean, user-focused design
