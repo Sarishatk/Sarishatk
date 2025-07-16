@@ -55,15 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarisha-krishnakumar&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarisha-krishnakumar&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
