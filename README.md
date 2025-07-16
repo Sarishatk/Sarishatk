@@ -1,35 +1,77 @@
-# 👋 Hi, I'm Sarisha Krishnakumar T K
+<h1 align="center">✨ Sarisha Krishnakumar T K ✨</h1>
+<h3 align="center">🌐 Full Stack Developer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
-🎓 Recent BCA Graduate | 👩‍💻 Full Stack Developer | 🚀 Passionate about building AI-powered and modern web applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Specialist;Django+%7C+React+%7C+SQL+%7C+Python&center=true&width=500&height=45">
+</p>
 
-## 💻 Tech Stack
+---
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+## 👩‍💻 About Me
 
-**Backend**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
+- 🎓 BCA Graduate from College of Applied Science, Chelakkara  
+- 💻 Passionate about building modern and AI-powered web applications  
+- 💬 Ask me about anything related to `React`, `Django`, `AI Integration`, or `Full Stack Projects`  
+- 🔭 Currently learning advanced backend and deployment practices  
+- 🌱 Exploring DevOps and Docker for future-ready applications
 
-## 🔨 Projects
+---
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [Tavola 🍽️](https://github.com/sarisha-krishnakumar/tavola) | React, NestJS, AI, MongoDB | AI-powered restaurant management system with live order tracking and image-based dish search |
-| [Portfolio Website 🌐](#) | HTML, CSS, JavaScript | Personal website showcasing my skills, resume, and projects |
-| [Blog App ✍️](#) | Django, SQLite | A full-stack blog platform with user login, post creation, and comment system |
+## 🚀 Tech Stack
 
-## 📈 GitHub Stats
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-![Sarisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarisha-krishnakumar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarisha-krishnakumar&layout=compact&theme=radical)
+### 🛠 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-## 📫 Let's Connect
+### 📦 Tools & Other
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
-- LinkedIn: [linkedin.com/in/sarisha-krishnakumar](#)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+---
 
+## 📌 Featured Projects
+
+### 🔥 [Tavola – AI-Powered Restaurant System](https://github.com/sarisha-krishnakumar/tavola)
+> An intelligent food ordering system with image-based dish search, real-time tracking & allergy detection  
+> 💻 Tech: React, NestJS, MongoDB, AI (CNN), Tailwind CSS  
+> 🌍 Features: QR menu, dish recognition, order tracking  
+> 🔗 [Live Demo Coming Soon]
+
+---
+
+### 🌟 [Portfolio Website](#)
+> Personal site to showcase my projects, resume & contact  
+> 💻 Tech: HTML, CSS, JavaScript  
+> 🎨 Responsive design with modern UI/UX  
+> 🔗 [Live Site Coming Soon]
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarisha-krishnakumar&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarisha-krishnakumar&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">💖 Thank you for visiting my profile!</p>
