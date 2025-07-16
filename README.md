@@ -51,7 +51,7 @@
 > Personal site to showcase my projects, resume & contact  
 > 💻 Tech: HTML, CSS, JavaScript  
 > 🎨 Responsive design with modern UI/UX  
-> 🔗 [Live Site Coming Soon]
+> 🔗 https://portfolio-sarisha.vercel.app/
 
 ---
 
